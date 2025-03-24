@@ -3,9 +3,6 @@
 ## 🚀 Overview
 This project showcases a **serverless food delivery platform** built on **AWS**, designed for **scalability, cost-efficiency, and real-time order tracking**. The architecture leverages AWS services to ensure a **highly available, secure, and auto-scaling system**.
 
-## 🏗 Architecture Diagram
-![Food Delivery Architecture](link-to-your-architecture-diagram)
-
 ## 🔥 Key Features
 - **Fully Serverless**: No need to manage servers—AWS handles scaling and maintenance.
 - **Real-time Order Tracking**: Orders are processed and tracked dynamically.
